@@ -6,13 +6,25 @@
 
 The portfolio is a static website built with semantic HTML, modern CSS, and vanilla JavaScript. It does not use npm, a build command, a framework, a database, server-side processing, trackers, external fonts, or third-party icon libraries.
 
+## Title and image revision checks
+
+Passed checks:
+
+- The professional title is now **Executive Operations & E-Commerce Coordinator** in the Hero, footer, page title, Open Graph metadata, Twitter metadata, JSON-LD, and README.
+- The previous full title is absent from the website package.
+- Supporting copy describes coordination and support for founders and business teams; it does not present Tristan as an executive.
+- The Hero uses the newly uploaded close-up headshot.
+- The About section uses the previous desk-and-laptop photograph.
+- The social-sharing image and structured-data avatar use the updated close-up portrait.
+- The verified 37,000-product result, Python scraper, Shopify catalog cleanup, sourcing support, Canva graphics, and administrative support remain intact.
+
 ## Automated browser checks
 
 The finished site was exercised in headless Chromium using an embedded local test copy of the exact HTML, CSS, JavaScript, and image assets.
 
 Passed checks:
 
-- Page content and professional title load correctly.
+- Page content and the updated professional title load correctly.
 - Every included image decodes successfully.
 - Every image has meaningful alternative text.
 - Every image has explicit width and height attributes.
@@ -42,9 +54,9 @@ No horizontal overflow was detected at any required test width:
 
 Visual preview screenshots were also reviewed for:
 
-- Desktop hero layout
+- Desktop hero layout and new title wrapping
 - Statistics and featured-work layout
-- Mobile hero and navigation layout
+- Mobile hero, close-up portrait, and navigation layout
 - Case-study dialog layout
 - Readable typography
 - Button spacing and touch targets
@@ -76,10 +88,10 @@ Passed checks:
 - All public raster images open without corruption.
 - No public raster image contains EXIF metadata.
 - No public image exceeds 500 KB.
-- Responsive JPG and WebP versions are included for personal photographs.
+- Responsive JPG and WebP versions are included for both personal photographs.
 - JPG and WebP versions are included for project screenshots and promotional graphics.
 - Below-the-fold images use native lazy loading.
-- Hero image dimensions are declared to prevent layout shift.
+- Hero and About image dimensions are declared to prevent layout shift.
 - The site uses no remote font, analytics, ad, or icon request.
 - JavaScript is small and limited to navigation, reveal effects, active-section state, and accessible dialogs.
 

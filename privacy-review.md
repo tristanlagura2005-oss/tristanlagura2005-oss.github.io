@@ -6,7 +6,7 @@ Every image included in the public portfolio package was reviewed separately fro
 
 ## Personal photographs
 
-### Hero desk photograph
+### About-section desk photograph
 
 Public files:
 
@@ -19,13 +19,13 @@ assets/images/profile/tristan-lagura-desk-960.*
 Actions completed:
 
 - Preserved Tristan Lagura's natural appearance and proportions.
-- Used a professional crop that keeps the desk, laptop, notebook, and cup visible.
+- Used a professional crop that keeps the desk, laptop, notebook, and cup visible in the About section.
 - Did not replace the background or generate a different office scene.
 - Did not add clothing, reshape facial features, or apply a beauty filter.
 - Re-encoded the image to strip unnecessary source metadata.
 - Created compressed JPG and WebP sizes for responsive loading.
 
-### Professional headshot
+### Hero close-up headshot
 
 Public files:
 
@@ -37,11 +37,12 @@ assets/images/profile/tristan-lagura-headshot-800.*
 
 Actions completed:
 
+- Used the newly uploaded close-up portrait as the Hero image.
 - Preserved the subject's face, identity, skin texture, and natural proportions.
 - Tightened the crop to remove an unnecessary lower-right decorative mark from the source edge.
 - Did not synthesize or replace any part of the face or body.
 - Re-encoded the image to strip unnecessary source metadata.
-- Created compressed JPG and WebP sizes for responsive loading.
+- Created compressed JPG and WebP sizes for responsive loading on desktop, tablet, and mobile.
 
 ## Store screenshots
 
@@ -194,8 +195,9 @@ assets/images/social/tristan-lagura-avatar.*
 
 Actions completed:
 
-- Built from the supplied personal photographs without changing identity.
-- Included only public professional name, title, and domain.
+- Built from the newly supplied close-up portrait without changing identity.
+- Updated the social-sharing artwork with the title “Executive Operations & E-Commerce Coordinator.”
+- Included only public professional name, title, specialties, and domain.
 - Included no residential address, private account information, customer data, or credentials.
 
 ## Final package review

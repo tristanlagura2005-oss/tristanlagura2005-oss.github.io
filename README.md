@@ -1,6 +1,6 @@
 # Tristan Lagura Portfolio
 
-A polished, accessible, single-page portfolio for **Tristan Lagura — E-Commerce Operations & Shopify Catalog Specialist**.
+A polished, accessible, single-page portfolio for **Tristan Lagura — Executive Operations & E-Commerce Coordinator**.
 
 The site uses semantic HTML, modern CSS, and small vanilla JavaScript. It has no build step, no npm packages, no framework, no database, and no external font or icon dependency.
 
